@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // 4. Background Music Controller
-  const audio = new Audio('./img/Floricienta.mp3');
+  const audio = new Audio('./Floricienta.mp3');
   audio.loop = true;
   audio.volume = 0.65;
 
